@@ -1,0 +1,22 @@
+body
+{
+    font-family: "Cascadia Code", monospace;
+}
+
+.note
+{
+    color: green;
+    background-color: yellow;
+    font-size: 2em;
+}
+
+#logo
+{
+    height: 10%;
+    width: 10%;
+}
+
+.survey
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

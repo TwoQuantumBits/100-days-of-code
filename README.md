@@ -11,7 +11,7 @@ Yeah. School exists, so exams exist, and that's why I had to split this up.
 
 ### Additional Rules
 
-1.  I will post about my progress every day [on my Twitter account](twitter.com/TwoDevBits) and on my [Hashnode blog](https://2qb.hashnode.dev/) using the hashtag #100DaysOfCode.
+1.  I will post about my progress every day [on my Twitter account](https://twitter.com/TwoDevBits) and on my [Hashnode blog](https://2qb.hashnode.dev/) using the hashtag #100DaysOfCode.
 2.  If I spend time doing classwork, that time won't count towards the challenge.
 3.  I will push code to GitHub every day so that anyone can see my progress.
 4.  I will update this repo with the day's progress and provide a link so that others can see my progress.
